@@ -22,4 +22,4 @@ docker run -h ldapserver -d provaldap:2019 <- en detach perque es quedi executan
 
 GITHUB : https://github.com/isx39443774/provaldap/blob/master/README.md
 
-DOCKERHUB: https://hub.docker.com/repository/docker/isx39443774/provaldap/tags?page=1
+DOCKERHUB: https://hub.docker.com/repository/docker/isx39443774/provaldap/general
