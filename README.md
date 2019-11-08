@@ -18,3 +18,8 @@ docker run --rm -h ldapserver -it provaldap:2019 /bin/bash <- interactivament
 
 docker run -h ldapserver -d provaldap:2019 <- en detach perque es quedi executant-se en segon pla 
 ```
+
+
+GITHUB : https://github.com/isx39443774/provaldap/blob/master/README.md
+
+DOCKERHUB: https://hub.docker.com/repository/docker/isx39443774/provaldap/tags?page=1
